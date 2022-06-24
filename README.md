@@ -1,7 +1,7 @@
 # go interface messages
 
 ## Overview
-This is a message type definition for [go_interface](https://github.com/eve-autonomy/go_interface) I / O.
+This package is a type definition for two types in [go_interface](https://github.com/eve-autonomy/go_interface).
 
 It supports two message types, delivery reservation command and vehicle status.
 
