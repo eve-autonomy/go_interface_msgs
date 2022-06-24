@@ -1,4 +1,4 @@
-# go_interface_msgs
+# go interface messages
 
 ## Overview
 This is a message type definition for [go_interface](https://github.com/eve-autonomy/go_interface) I / O.
